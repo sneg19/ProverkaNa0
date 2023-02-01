@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/proverka_>_0/bin/Debug/net7.0/proverka_>_0
+/home/sneg/Documents/C#/proverka_>_0/bin/Debug/net7.0/proverka_>_0.deps.json
+/home/sneg/Documents/C#/proverka_>_0/bin/Debug/net7.0/proverka_>_0.runtimeconfig.json
+/home/sneg/Documents/C#/proverka_>_0/bin/Debug/net7.0/proverka_>_0.dll
+/home/sneg/Documents/C#/proverka_>_0/bin/Debug/net7.0/proverka_>_0.pdb
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.AssemblyInfo.cs
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.dll
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/refint/proverka_>_0.dll
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.pdb
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/proverka_>_0.genruntimeconfig.cache
+/home/sneg/Documents/C#/proverka_>_0/obj/Debug/net7.0/ref/proverka_>_0.dll

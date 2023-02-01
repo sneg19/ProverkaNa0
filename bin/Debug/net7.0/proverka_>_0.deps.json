@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "proverka_>_0/1.0.0": {
+        "runtime": {
+          "proverka_>_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proverka_>_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
